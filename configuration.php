@@ -27,7 +27,7 @@ class gatorconf {
 
 				// use database to store users? (true/false)
 				'use_database' => false,
-				'db_host' => 'localhost',
+				'db_host' => 'jvdmadelo.github.io',
 				'db_username' => 'root',
 				'db_password' => '',
 				'db_database' => 'dbfile',
